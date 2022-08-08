@@ -1,0 +1,10 @@
+[package]
+name = "riscv_insn_decode"
+version = "0.1.0"
+authors = ["hm <qq171928059@163.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+riscv-decode = "0.2.0"
